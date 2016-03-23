@@ -1,2 +1,0 @@
-# PyTest
-Just a test
